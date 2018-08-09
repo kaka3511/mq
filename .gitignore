@@ -1,0 +1,6 @@
+.idea/
+mq.iml
+mq-api/mq-api.iml
+mq-server/target/
+mq-api/target/
+mq-web/target/
