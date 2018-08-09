@@ -13,6 +13,7 @@ import org.springframework.stereotype.Service;
  */
 @Service("mqApi")
 public class MqApiImpl implements MqApi {
+  @Override
   public ServiceResultDto sendMessage(ServiceRequestDto requestDto) {
     return null;
   }
