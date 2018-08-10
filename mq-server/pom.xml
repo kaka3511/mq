@@ -35,6 +35,12 @@
       <scope>provided</scope>
     </dependency>
 
+      <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-activemq</artifactId>
+        <version>1.5.7.RELEASE</version>
+      </dependency>
+
   </dependencies>
 
 

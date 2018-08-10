@@ -1,7 +1,7 @@
 package com.kaka.mq.api;
 
-import com.kaka.mq.common.ServiceRequestDto;
-import com.kaka.mq.common.ServiceResultDto;
+import com.kaka.cloud.common.ServiceRequestDto;
+import com.kaka.cloud.common.ServiceResultDto;
 
 /**
  * @author fuwei

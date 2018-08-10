@@ -10,6 +10,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.kaka.mq</groupId>
   <artifactId>mq-api</artifactId>
+  <dependencies>
+    <dependency>
+      <groupId>com.kaka.cloud</groupId>
+      <artifactId>cloud-api</artifactId>
+      <version>1.0-SNAPSHOT</version>
+    </dependency>
+  </dependencies>
 
 
 </project>
